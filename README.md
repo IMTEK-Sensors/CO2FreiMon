@@ -13,6 +13,7 @@ Contact: Dr. Jochen Kieninger, kieninger@imtek.uni-freiburg.de
 This repo contains code to run to operate a Sensirion SCD30 CO2 sensor connected to an Adafruit Feather M0 and a Adafruit 3.5" TFT FeatherWing display. It was created as part of a bachelor thesis on air qualitiy sensors for COVID-19 prevention supported by the Department of Occupational Health and Safety at the University of Freiburg.
 
 ## Hardware
+* Adafruit Feahter M0
 
 ## Library Requirements
 
