@@ -16,7 +16,7 @@ This repo contains code to operate a Sensirion SCD30 CO2 sensor connected to an 
 * Adafruit Feahter M0
 * Adafruit 3.5" 480x320 TFT FeatherWing
 * Adafruit DS3231 Precision Real Time Clock Featherwing
-* Sensirion SCD30 - CO$_2$ Sensor
+* Sensirion SCD30 - CO_2 Sensor
 
 ## Library Requirements
 
