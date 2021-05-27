@@ -1,4 +1,4 @@
-# CO2FreiMon - CO2 monitor 
+# CO2FreiMon - Freiburg's CO2 Monitor 
 
 
 Contributors: Jannik Sehringer (major), Jochen Kieninger (minor)
