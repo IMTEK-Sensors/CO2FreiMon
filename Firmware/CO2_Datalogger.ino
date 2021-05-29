@@ -136,7 +136,6 @@ void setup() {
 
   /* Pin modes */
   pinMode(CALIB, INPUT_PULLUP);
-  pinMode(LED_BUILTIN, OUTPUT);
 
   // wait 3 seconds to show startup logo, then turn display black
   delay(3000);
