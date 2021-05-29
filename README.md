@@ -44,7 +44,13 @@ These are donlowdable via the Arduino library manager:
 * Adafruit_GFX.h
 * Adafruit_HX8357.h
 
-
-
 ## How to use the code
+The code just needs to be compiled and uploaded.
 
+## Usage of the divice
+* Once the code is uploaded the divice runs on itself.
+* Place the bmp files of the logos on the SD card, if you want them to be shown.
+* Make sure to have an SD card inserted even if its empty, otherwise the device won't work.
+* You can use the RST button on the backside to restart the device.
+* Use the slide switch to turn the device on and off. This is recommended especially when powerd via a battery as power consumption of the display is quite high.
+* The pushbutton on the backside can be used to calibrate the SCD30 CO<sub>2</sub> sensor. This should happen at least once a month as the sensor is drifting. Calibration must always happen outdoors. Further information is given on start of calibration. Calibration can be aborted by resetting the device using RST.
