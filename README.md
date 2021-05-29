@@ -19,6 +19,21 @@ This repo contains code to operate a Sensirion SCD30 CO<sub>2</sub> sensor conne
 * Sensirion SCD30 - CO<sub>2</sub> Sensor
 
 ## Library Requirements
+The following libraries are needed
+
+These should be included in the installation of the Arduino IDE
+* SPi.h
+* SD.h
+* Wire.h
+
+These are donlowdable via the Arduino library manager
+* RTClib.h
+* SparkFun_SCD30_Arduino_Library.h
+* Adafruit_SleepyDog.h
+* Adafruit_GFX.h
+* Adafruit_HX8357.h
+
+
 
 ## How to use the code
 
