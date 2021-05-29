@@ -7,7 +7,7 @@ Contact: Dr. Jochen Kieninger, kieninger@imtek.uni-freiburg.de
 
 [Laboratory for Sensors](https://www.imtek.de/laboratories/sensors/sensors_home?set_language=en), IMTEK, University of Freiburg
 
-<img src="CO2Monitor.jpg" width="400">
+<img src="Pictures/startup.jpg" width="300"> <img src="Pictures/status_green.jpg" width="300"> <img src="Pictures/status_red.jpg" width="300">
 
 ## About
 This repo contains code to operate a Sensirion SCD30 CO<sub>2</sub> sensor connected to an Adafruit Feather M0 and a Adafruit 3.5" TFT FeatherWing display with the abillity to store data on a SD card. It was created as part of a bachelor thesis on air qualitiy sensors for COVID-19 prevention supported by the Department of Occupational Health and Safety at the University of Freiburg.
