@@ -47,7 +47,7 @@ These are donlowdable via the Arduino library manager:
 ## How to use the code
 The code just needs to be compiled and uploaded.
 
-## Usage of the divice
+## Usage of the device
 * Once the code is uploaded the divice runs on itself.
 * Place the bmp files of the logos on the SD card, if you want them to be shown.
 * Make sure to have an SD card inserted even if its empty, otherwise the device won't work.
